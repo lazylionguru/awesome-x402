@@ -77,6 +77,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 
 
+- [Kunzum x402 Agentic Payments](https://kunzum.xyz/x402-agentic-payments/) - Plain-English guide to x402 with a live production tips API (`/api/tip`, USDC on Base, from $0.05) and a public payment log.
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
